@@ -16,9 +16,11 @@ https://github.com/AdoptOpenJDK/openjdk-docker/blob/master/8/jre/alpine/Dockerfi
 修改点:
 
 修改字符集为：zh_CN.UTF-8
+
 修改时区为：Asia/Shanghai
 
 ## centos-jre-8
+
 AdoptOpenjdk-centos-jre-hotspot-8u292-b10
 
 基于 AdoptOpenJDK 官方修改
@@ -28,6 +30,7 @@ https://github.com/AdoptOpenJDK/openjdk-docker/blob/master/8/jre/centos/Dockerfi
 修改点
 
 修改字符集为：c.UTF-8
+
 修改时区为：Asia/Shanghai
 
 ## ubuntu-jre-8
@@ -41,4 +44,5 @@ https://github.com/AdoptOpenJDK/openjdk-docker/blob/master/8/jre/ubuntu/Dockerfi
 修改点
 
 修改字符集为：zh_CN.UTF-8
+
 修改时区为：Asia/Shanghai
