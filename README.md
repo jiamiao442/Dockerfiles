@@ -28,7 +28,9 @@ https://github.com/AdoptOpenJDK/openjdk-docker/blob/master/8/jre/centos/Dockerfi
 
 修改字符集为：c.UTF-8
 修改时区为：Asia/Shanghai
+
 ubuntu-jre-8
+
 AdoptOpenjdk-ubuntu-jre-hotspot-8u292-b10
 
 基于 AdoptOpenJDK 官方修改
